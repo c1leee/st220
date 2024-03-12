@@ -1,2 +1,7 @@
 # Project 1 
-### Due March 13th 22:00 
+### 12th March 2024 
+###_This is my frist project for Stats220, and it contains the following features:_
+* Meme creation
+
+
+
