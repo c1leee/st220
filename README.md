@@ -4,6 +4,6 @@
 * Part B: Meme creation
 * Part C: HTML creation
 
-For more information, you can read the project instructions [here.]https://www.stat.auckland.ac.nz/~fergusson/stats220_S124/project1.php
+For more information, you can read the project instructions [here.](/https://www.stat.auckland.ac.nz/~fergusson/stats220_S124/project1.php)
 
 
